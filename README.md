@@ -18,4 +18,4 @@ updated elements according to changes in html file
 
 Link=https://franamaus.github.io/horiseon-code-refactor-/
 
-![Screenshot of top of page](./assets/images/page-screen-shot.png)
+![Screenshot of top of page](./assets/images/page-screenshot.png)
